@@ -1,0 +1,1 @@
+Table.SelectRows(Dados, each [Ano] = 2023)

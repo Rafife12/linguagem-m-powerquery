@@ -1,0 +1,1 @@
+Table.AddColumn(Dados, "AnoTexto", each Text.From([Ano]))
